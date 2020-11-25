@@ -1,5 +1,5 @@
 body{
-  background-color: #87ceeb;
+  background-color: white;
   font-size: 20px;
 }
 hr{
@@ -22,4 +22,7 @@ h3{
 .top{
   background:#00bfff	;
   position: relative;
+}
+table{
+  font-size: 20px;
 }
